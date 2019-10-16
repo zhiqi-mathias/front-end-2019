@@ -1,0 +1,5 @@
+color 1
+ffdfdf (lighter pink)
+fbc1bc (pink)
+315b96 (dark blue)
+233567（darker blue)
